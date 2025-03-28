@@ -34,7 +34,7 @@ Here are screenshots showing the game in action:
 
 ### Main Screen:
 ![Insert Name](ReadMe-Images/name.png)
-![Insert Difficulty level](ReadMe-Images/name.png)
+![Insert Difficulty level](ReadMe-Images/levels.png)
 
 ### Typing in Progress:
 ![Good Typing](ReadMe-Images/levels.png)
