@@ -36,10 +36,10 @@ Here are screenshots showing the game in action:
 ![Insert Name](ReadMe-Images/name.png)
 ![Insert Difficulty level](ReadMe-Images/levels.png)
 
-### Typing in Progress:
+### Sucess:
 ![Good Typing](ReadMe-Images/success.png)
 
-### Game Over Screen:
+### To Be Improved:
 ![Typing should be improved](ReadMe-Images/failed.png)
 
 ## Future Enhancements
