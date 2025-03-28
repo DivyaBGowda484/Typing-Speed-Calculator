@@ -37,7 +37,7 @@ Here are screenshots showing the game in action:
 ![Insert Difficulty level](ReadMe-Images/levels.png)
 
 ### Typing in Progress:
-![Good Typing](ReadMe-Images/levels.png)
+![Good Typing](ReadMe-Images/success.png)
 
 ### Game Over Screen:
 ![Typing should be improved](./screenshots/Screenshot_3.png)
