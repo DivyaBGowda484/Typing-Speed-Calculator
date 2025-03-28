@@ -33,7 +33,7 @@ This project is a simple typing game built using **Java**, designed to improve y
 Here are screenshots showing the game in action:
 
 ### Main Screen:
-![Insert Name](./screenshots/Screenshot_1.png)
+![Insert Name](ReadMe-Images/name.png)
 
 ### Typing in Progress:
 ![Good Typing](./screenshots/Screenshot_2.png)
