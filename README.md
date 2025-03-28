@@ -40,7 +40,7 @@ Here are screenshots showing the game in action:
 ![Good Typing](ReadMe-Images/success.png)
 
 ### Game Over Screen:
-![Typing should be improved](./screenshots/Screenshot_3.png)
+![Typing should be improved](ReadMe-Images/failed.png)
 
 ## Future Enhancements
 
