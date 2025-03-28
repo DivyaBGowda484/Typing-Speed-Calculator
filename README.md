@@ -33,13 +33,13 @@ This project is a simple typing game built using **Java**, designed to improve y
 Here are screenshots showing the game in action:
 
 ### Main Screen:
-![Main Screen](./screenshots/Screenshot_1.png)
+![Insert Name](./screenshots/Screenshot_1.png)
 
 ### Typing in Progress:
-![Typing](./screenshots/Screenshot_2.png)
+![Good Typing](./screenshots/Screenshot_2.png)
 
 ### Game Over Screen:
-![Game Over](./screenshots/Screenshot_3.png)
+![Typing should be improved](./screenshots/Screenshot_3.png)
 
 ## Future Enhancements
 
